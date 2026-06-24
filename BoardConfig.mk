@@ -5,7 +5,7 @@
 
 DEVICE_PATH := device/tecno/CK7n
 KERNEL_PATH := $(DEVICE_PATH)-kernel
-COMMON_GKI_PATH := device/millennium/common-kernel
+COMMON_GKI_PATH := 
 CONFIGS_PATH := $(DEVICE_PATH)/configs
 
 # Enable 64-bit for non-zygote.
